@@ -6,3 +6,14 @@ git branch -M main
 git remote add origin git@github.com:ArshaAsh15/ArshaAsh15.git
 git push -u origin main
 
+# edited sales data csv file has been created
+# secondone.py file is used to write the code for this project
+
+# firstone file is used to notedown the changes,modification,cleaning and other important things that are made in this project.so that we could understand the changes clearly .
+
+# Data Extraction - data is extracted as a csv file from google.
+# Data Cleaning - raw data has been uploaded in excel and cleaned. missing values and empty data, data imputation,incorrect types, incorrect or invalid values, outliers and non relevant data.
+# Data Wrangling - Reshaping & transforming structures,hierarchical data,handling categorical data,indexing data for quick access, merging, combining and joining data.
+# Analysis - Exploration, building statistical models, visualization & representation,correlation vs causation analysis,hypothesis testing,statistical analysis,reporting.
+# Action - Building machine learning models, feature engineering,moving ML into production, building ETL pipelines,live dashboard and reporting, decision making & real-life tests.
+
